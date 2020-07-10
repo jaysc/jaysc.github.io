@@ -7,7 +7,7 @@ module.exports = (config) => {
     dir: {
       input: "src",
       includes: "_includes",
-      output: "_site",
+      output: "../jaysc.github.io",
     },
     passthroughFileCopy: true,
     templateFormats: ["md", "liquid", "html"],
