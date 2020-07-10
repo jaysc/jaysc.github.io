@@ -1,0 +1,24 @@
+{
+  "name": "jaysc.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysc/jaysc.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysc/jaysc.github.io/issues"
+  },
+  "homepage": "https://github.com/jaysc/jaysc.github.io#readme"
+}
