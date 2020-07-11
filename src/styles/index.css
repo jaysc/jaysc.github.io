@@ -19,4 +19,8 @@
 #mainBody {
   background-color: #1a202c;
   color: #edf2f7;
+  display: flex;
+  flex-wrap: column wrap;
+  justify-content: center;
+  padding: 10rem;
 }
